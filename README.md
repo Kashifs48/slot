@@ -111,7 +111,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![Screenshot 2024-11-18 175726](https://github.com/user-attachments/assets/e1c0728f-6dd2-42a5-a7c2-408935270f99)
+![Screenshot 2024-11-19 182535](https://github.com/user-attachments/assets/ec04a602-944d-43b9-82b7-64acf3b6fde7)
 
 
 
